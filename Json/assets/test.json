@@ -1,0 +1,11 @@
+{
+    "Player": {
+        "Name": "Player",
+        "Speed": 10.0,
+        "HP": 100
+    },
+    "Enemy": {
+        "Name": [ "dragon", "slime" ],
+        "array": [ true,10,"test"]
+    }
+}
